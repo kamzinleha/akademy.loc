@@ -3,4 +3,4 @@
 $hello = 'Hello';
 include 'include.php';
 echo $hello;
-//комент
+//комент 11111 22222222
